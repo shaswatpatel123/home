@@ -188,6 +188,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _posts/2020-09-28-twitter.md
+  - assets/jupyter/
   - purgecss.config.js
   - README.md
   - readme_preview/

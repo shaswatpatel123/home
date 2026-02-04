@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Assistant positions at New York University
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am passionate about teaching and have served as a Teaching Assistant for several courses at NYU, helping students develop strong foundations in computer science and cutting-edge AI techniques.
 
-Organize your courses by years, topics, or universities, however you like!
+### [Building LLM Reasoners](https://gregdurrett.github.io/courses/sp2026/index.html)
+**New York University**
+
+### [Algorithmic Problem Solving](https://cs.nyu.edu/~joannakl/aps_s21/problem_grading.html)
+**New York University**
+
+### [Data Structures](https://cims.nyu.edu/~joannakl/cs102/syllabus.html)
+**New York University**
